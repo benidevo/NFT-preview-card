@@ -2,6 +2,7 @@
 
 This is a simple NFT Preview card built using Reactjs and Semantic UI.
 
+[Live Preview](https://nft-prev-card1.netlify.app/)
 
 ![Screenshot](NFTCard.png?raw=true 'NFT Preview Card')
 
